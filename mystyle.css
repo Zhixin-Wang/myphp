@@ -1,0 +1,249 @@
+body {
+	/*background-image:url(img/751.jpg);*/
+	margin: 0;
+	background: #EEF3F7;
+	word-wrap:break-word;
+	word-break:break-all;
+}
+.top {
+	background:#06B4FC;
+	margin: 0;
+	padding: 2;
+	height: 60px;
+}
+.topadd{
+	margin: 0 10% 0 10%;
+	padding: 0;
+}
+.topmy{
+	margin: 0;
+	padding: 1px;
+	height: 60px;
+	width: 400px;
+	float: left;
+}
+.topuser{
+	margin: 30px 0 0 0;
+	padding: 1px;
+	height: 20px;
+	float: right;
+}
+.topuser_pic{
+	margin: 0 0 0 0;
+	height: 60px;
+	float: right;
+	/*border-radius:50%;*/
+	overflow:hidden;
+}
+.head{
+	background: #C8E9F5;
+	height: 25px;
+	padding: 15px 10% 10px 10%;
+	font-size: 25px;
+	margin: 0 0 15px 0;
+}
+a{
+	margin: 0 10px 0 10px;
+}
+
+
+.main {
+	margin: 0 auto 15px;
+	padding: 0;
+	width: 1438px;
+	height: auto;
+}
+
+.left{
+	width: 1000px;
+	height: 800px;
+	padding: 0;
+	float: left;
+}
+.right{
+	background: #fff;
+	padding: 0 20px 0 20px;
+	width: 395px;
+	height: 800px;
+	margin: 0 0 0 1005px;
+}
+
+
+.foot{
+	background: #D7D6D6;
+	margin: ;
+	padding: 35px 0 0 0;
+	height: 60px;
+	text-align:center;
+}
+
+.inputBox {
+    height: 32px;
+    border: 1px solid #CCC;
+    border-radius: 2px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1) inset;
+    color: rgba(0,0,0,0.75);
+    display: block;
+    width: 100%;
+    margin: 5px 0px 3px;
+    padding: 0;
+    float: left;
+}
+.page{
+	text-align:right;
+}
+#textm{
+	height: 150px;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#text_l{
+	text-align:left;
+}
+
+#text_c{
+	text-align:center;
+}
+
+#text_r{
+	text-align:right;
+}
+
+.error {color: #FF0000;}
+
+/*login===========================================*/
+.longin_head{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	font-size: 60px;
+}
+.log{
+	width: 300px;
+	height: 400px;
+	margin: 30px auto;
+	padding: 25px 20px 50px 20px;
+	background: #A3CBC7;
+}
+.longin_img{
+	margin: 0 0 0 25px;
+	width: 250px;
+	height: 250px;
+	border-radius:50%;
+	overflow:hidden;
+}
+#dd{
+	margin: 0 0 20px 30px;
+}
+.dd_d{
+	margin: 0 0 0 15px;
+	width: 270px;
+	height: 30px;
+}
+.dd_a{
+	margin: 0 0 0 20px;
+}
+.error {
+	float: right;
+	color: #FF0000;
+	text-align:right;
+}
+/*register===========================================*/
+.reg{
+	width: 600px;
+	height: auto;
+	margin: 150px auto;
+	padding: 50px 100px 50px 100px;
+	background: #E0E7E6;
+}
+.error_reg {
+	color: #FF0000;
+}
+
+/*article===========================================*/
+.main_a {
+	margin: 0 auto 15px;
+	padding: 0;
+	width: 1438px;
+	height: auto;
+	font-size: 25px;
+}
+.left_art{
+	background: #D8E7FC;
+	width: 300px;
+	height: 800px;
+	padding: 0;
+	float: left;
+}
+.right_art{
+	background: #fff;
+	padding: 20px 40px 0 40px;
+	width: 1048px;
+	height: 780px;
+	margin: 0 0 0 310px;
+}
+
+.title{
+	width: 100%;
+	height: 30px;
+}
+
+.title_l{
+	margin: 0;
+	width: 700px;
+	height: 30px;
+	padding: 0;
+	float: left;
+}
+.title_r{
+	width: 300px;
+	height: 30px;
+	padding: 0;
+	float: right;
+}
+
+#texta{
+	height: 500px;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#m_bottom{
+	margin-bottom: 10px;
+}
+
+/*user_infor===========================================*/
+
+.main_infor {
+	margin: 0 auto 15px;
+	padding: 0;
+	width: 1438px;
+	height: auto;
+}
+.head_infor{
+	height:30px;
+	padding: 15px;
+	background: #D5D6D6;
+	font-size: 25px;
+	text-align:center;
+	font-weight:bold;
+}
+.left_infor{
+	background: #fff;
+	width: 270px;
+	height: 745px;
+	padding: 40px 15px 15px 15px;
+	float: left;
+	text-align:center;
+}
+.right_infor{
+	background: #fff;
+	padding: 40px 20px 40px 100px;
+	width: 1008px;
+	height: 720px;
+	margin: 0 0 0 310px;
+}
+.table_infor{
+	font-size: 25px;
+}
